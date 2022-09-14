@@ -1,0 +1,40 @@
+.vuska{
+    background-color: red;
+}
+.edit-form
+{
+    width: 100%;
+    
+    display: flex;
+    flex-direction: column;
+}
+
+.edit-inp
+{
+    width: 100%;
+    height: 40px;
+    padding-left: 20px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid silver;
+    margin: 20px 0;
+}
+
+.edit-img
+{
+    width: 90px;
+    height: 90px;
+}
+
+.edit-img img
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+
+
+
